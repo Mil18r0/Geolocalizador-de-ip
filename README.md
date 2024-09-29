@@ -17,12 +17,8 @@ Estado:
 Cidade: 
 
 Provedor de Internet:
-
 Latitude: 
-
 Longitude: 
-
 Link para o Google Maps com a localização do IP: https://www.google.com/maps
-
 Pressione Enter para continuar...
 
